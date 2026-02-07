@@ -1,7 +1,7 @@
 {
     "name": "stylescape-example-svelte",
     "description": "Stylescape example with Svelte and Vite",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "type": "module",
     "repository": "https://github.com/stylescape/example-svelte",
