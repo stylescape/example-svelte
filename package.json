@@ -21,7 +21,7 @@
         "test": "npm run build"
     },
     "dependencies": {
-        "stylescape": "^0.4.1"
+        "stylescape": "^0.5.4"
     },
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^6.2.4",
